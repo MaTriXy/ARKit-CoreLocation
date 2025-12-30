@@ -242,6 +242,6 @@ We have some Milestones and Issues related to them - anyone is welcome to discus
     - Integrates ARCL with a tracking library `GeoTrackKit` and has some useful demo screencasts
 
 ## Thanks
-Library created by [@AndrewProjDent](https://twitter.com/andrewprojdent), but a community effort from here on.
+Library created by [@AndrewHart](https://x.com/andrewhart), but a community effort from here on.
 
 Available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
